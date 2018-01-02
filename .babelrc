@@ -1,0 +1,19 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "last 2 versions"
+          ]
+        },
+        "loose": true
+      }
+    ],
+    "stage-3",
+    "flow"
+  ],
+  "plugins": [
+  ]
+}

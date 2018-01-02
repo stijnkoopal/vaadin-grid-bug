@@ -1,0 +1,7 @@
+{
+  "name": "vaadin-grid-bug",
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.4.0-rc.1",
+    "vaadin-grid": "4.1.0"
+  }
+}
